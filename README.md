@@ -1,2 +1,1 @@
-# Hackintosh
-Hackintosh EFIs for Several PCs
+# Hackintosh Clover EFI for Lenovo ThinkCentre M93p Tiny
