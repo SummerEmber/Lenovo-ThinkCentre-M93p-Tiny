@@ -7,7 +7,7 @@ Graphics         Intel HD Graphics 4400
 Audio            Realtek @ Intel Lynx Point-LP High Definition Audio (ALC283)
 Ethernet         Intel I217LM PCI Express Gigabit Ethernet
 Wi-Fi            Broadcom BCM94352HMB Mini PCIE
-Storage          Western Digital 480G SSD
+Storage          Western Digital SSD 480G
 Monitor          DELL U2414H 1080P
 macOS Version    10.15.4
 Clover Version   5116
