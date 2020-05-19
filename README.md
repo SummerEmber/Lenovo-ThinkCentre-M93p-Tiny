@@ -6,7 +6,7 @@ Memory           8G DDR3 1600MHz (4Gx2)
 Graphics         Intel HD Graphics 4400
 Audio            Realtek ALC283
 Ethernet         Intel I217LM
-Wi-Fi            Broadcom BCM94352HMB Mini PCIE
+Wi-Fi            Broadcom BCM94352HMB
 Storage          Western Digital SSD 480G
 Monitor          DELL U2414H 1080P
 macOS Version    10.15.4
