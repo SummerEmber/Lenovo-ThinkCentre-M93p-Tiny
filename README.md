@@ -4,8 +4,8 @@ Model            Lenovo ThinkCentre M93p Tiny
 CPU              Intel i3-4130T
 Memory           8G DDR3 1600MHz (4Gx2)
 Graphics         Intel HD Graphics 4400
-Audio            Realtek @ Intel Lynx Point-LP High Definition Audio (ALC283)
-Ethernet         Intel I217LM PCI Express Gigabit Ethernet
+Audio            Realtek ALC283
+Ethernet         Intel I217LM
 Wi-Fi            Broadcom BCM94352HMB Mini PCIE
 Storage          Western Digital SSD 480G
 Monitor          DELL U2414H 1080P
