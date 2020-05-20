@@ -82,10 +82,8 @@
 		<dict>
 			<key>AFGLowPowerState</key>
 			<false/>
-			<key>Inject</key>
-			<string>Detect</string>
 			<key>ResetHDA</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>LANInjection</key>
 		<false/>
@@ -93,6 +91,11 @@
 		<false/>
 		<key>Properties</key>
 		<dict>
+			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>AQAAAA==</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
@@ -173,17 +176,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>02/05/2020</string>
+		<string>07/22/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM71.88Z.F000.B00.2002051745</string>
+		<string>MM71.88Z.F000.B00.1907221630</string>
 		<key>Board-ID</key>
 		<string>Mac-35C5E08120C7EEAF</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C027203034NG0MCA8</string>
+		<string>C02712306GUG0MCFB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -195,7 +198,7 @@
 		<key>ChassisType</key>
 		<string>0x0A</string>
 		<key>EfiVersion</key>
-		<string>247.0.0.0.0</string>
+		<string>245.0.0.0.0</string>
 		<key>Family</key>
 		<string>Mac mini</string>
 		<key>FirmwareFeatures</key>
@@ -213,9 +216,9 @@
 		<key>ProductName</key>
 		<string>Macmini7,1</string>
 		<key>SerialNumber</key>
-		<string>C02TQ4ZBG1J0</string>
+		<string>C02TG0SVG1J0</string>
 		<key>SmUUID</key>
-		<string>956E4826-50DA-44C2-8E96-16B510017AB4</string>
+		<string>29468A38-1946-4E83-8076-CB0BA92EECD9</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
