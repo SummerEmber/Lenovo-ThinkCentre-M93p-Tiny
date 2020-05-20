@@ -8,7 +8,7 @@ Audio            Realtek ALC283
 Ethernet         Intel I217LM
 Wi-Fi            Broadcom BCM94352HMB
 Monitor          FHD 1920x1080
-BIOS Version            
+BIOS Version     FBKTDBAUS 12/24/2019
 macOS Version    Catalina 10.15.4
 Clover Version   5116
 ```
