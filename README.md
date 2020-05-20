@@ -7,7 +7,6 @@ Graphics         Intel HD Graphics 4400
 Audio            Realtek ALC283
 Ethernet         Intel I217LM
 Wi-Fi            Broadcom BCM94352HMB
-Storage          Western Digital SSD 480G
 Monitor          FHD 1920x1080
 BIOS Version            
 macOS Version    Catalina 10.15.4
