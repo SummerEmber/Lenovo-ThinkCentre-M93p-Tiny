@@ -30,11 +30,15 @@
 		<array>
 			<dict>
 				<key>Signature</key>
-				<string>DMAR</string>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>CpuPm</string>
 			</dict>
 			<dict>
 				<key>Signature</key>
-				<string>MATS</string>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>Cpu0Ist</string>
 			</dict>
 		</array>
 		<key>FixHeaders</key>
@@ -55,6 +59,7 @@
 		</dict>
 		<key>SortedOrder</key>
 		<array>
+			<string>SSDT.aml</string>
 			<string>SSDT-EC-USBX.aml</string>
 			<string>SSDT-UIAC.aml</string>
 		</array>
