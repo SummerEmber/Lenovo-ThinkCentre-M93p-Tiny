@@ -51,6 +51,11 @@
 				<true/>
 			</dict>
 		</dict>
+		<key>SortedOrder</key>
+		<array>
+			<string>SSDT-EC-USBX.aml</string>
+			<string>SSDT-UIAC.aml</string>
+		</array>
 	</dict>
 	<key>Boot</key>
 	<dict>
@@ -176,17 +181,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>02/05/2020</string>
+		<string>07/22/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM71.88Z.F000.B00.2002051745</string>
+		<string>MM71.88Z.F000.B00.1907221630</string>
 		<key>Board-ID</key>
 		<string>Mac-35C5E08120C7EEAF</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02506404GUG0MC1F</string>
+		<string>C02712306GUG0MCFB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -198,7 +203,7 @@
 		<key>ChassisType</key>
 		<string>0x0A</string>
 		<key>EfiVersion</key>
-		<string>247.0.0.0.0</string>
+		<string>245.0.0.0.0</string>
 		<key>Family</key>
 		<string>Mac mini</string>
 		<key>FirmwareFeatures</key>
@@ -216,9 +221,9 @@
 		<key>ProductName</key>
 		<string>Macmini7,1</string>
 		<key>SerialNumber</key>
-		<string>C02P70CVG1J0</string>
+		<string>C02TG0SVG1J0</string>
 		<key>SmUUID</key>
-		<string>B1A97C1E-0034-4B61-B674-25DB3F6B75D9</string>
+		<string>29468A38-1946-4E83-8076-CB0BA92EECD9</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
