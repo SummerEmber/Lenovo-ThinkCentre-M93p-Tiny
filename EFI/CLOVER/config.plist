@@ -165,11 +165,11 @@
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleIntelCPUPM</key>
-		<false/>
+		<true/>
 		<key>AppleRTC</key>
-		<false/>
+		<true/>
 		<key>KernelPm</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
