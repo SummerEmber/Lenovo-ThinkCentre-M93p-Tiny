@@ -38,7 +38,7 @@
 			</dict>
 		</array>
 		<key>FixHeaders</key>
-		<true/>
+		<false/>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
@@ -46,9 +46,9 @@
 			<key>Generate</key>
 			<dict>
 				<key>CStates</key>
-				<true/>
+				<false/>
 				<key>PStates</key>
-				<true/>
+				<false/>
 			</dict>
 		</dict>
 		<key>SortedOrder</key>
@@ -165,11 +165,11 @@
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleIntelCPUPM</key>
-		<true/>
+		<false/>
 		<key>AppleRTC</key>
-		<true/>
+		<false/>
 		<key>KernelPm</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
