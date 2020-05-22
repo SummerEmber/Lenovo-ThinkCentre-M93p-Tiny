@@ -108,7 +108,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWCg==</data>
+				<data>AwAiDQ==</data>
 				<key>device-id</key>
 				<data>EgQAAA==</data>
 				<key>framebuffer-patch-enable</key>
