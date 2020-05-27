@@ -9,6 +9,6 @@ Ethernet         Intel I217LM
 Wi-Fi            Broadcom BCM94352HMB
 Monitor          FHD 1920x1080
 BIOS Version     FBKTDBAUS 12/24/2019
-macOS Version    Catalina 10.15.4
-Clover Version   5116
+macOS Version    Catalina 10.15.5
+Clover Version   5118
 ```
