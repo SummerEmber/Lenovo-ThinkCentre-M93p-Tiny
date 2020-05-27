@@ -185,17 +185,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>07/22/2019</string>
+		<string>02/05/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM71.88Z.F000.B00.1907221630</string>
+		<string>MM71.88Z.F000.B00.2002051745</string>
 		<key>Board-ID</key>
 		<string>Mac-35C5E08120C7EEAF</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02712306GUG0MCFB</string>
+		<string>C02821501GUG0MC1M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -207,7 +207,7 @@
 		<key>ChassisType</key>
 		<string>0x0A</string>
 		<key>EfiVersion</key>
-		<string>245.0.0.0.0</string>
+		<string>247.0.0.0.0</string>
 		<key>Family</key>
 		<string>Mac mini</string>
 		<key>FirmwareFeatures</key>
@@ -225,9 +225,9 @@
 		<key>ProductName</key>
 		<string>Macmini7,1</string>
 		<key>SerialNumber</key>
-		<string>C02TG0SVG1J0</string>
+		<string>C02WR2Y3G1J0</string>
 		<key>SmUUID</key>
-		<string>29468A38-1946-4E83-8076-CB0BA92EECD9</string>
+		<string>292806C4-37A1-4D17-A9BB-79446C9724C0</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
