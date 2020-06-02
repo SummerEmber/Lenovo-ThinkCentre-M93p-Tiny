@@ -6,23 +6,6 @@
 	<dict>
 		<key>DSDT</key>
 		<dict>
-			<key>Debug</key>
-			<false/>
-			<key>DropOEM_DSM</key>
-			<false/>
-			<key>Fixes</key>
-			<dict>
-				<key>AddDTGP</key>
-				<false/>
-				<key>FixDisplay</key>
-				<false/>
-				<key>FixHPET</key>
-				<false/>
-				<key>FixRTC</key>
-				<false/>
-				<key>FixShutdown</key>
-				<false/>
-			</dict>
 			<key>Patches</key>
 			<array>
 				<dict>
@@ -46,8 +29,6 @@
 					<data>RUgwMg==</data>
 				</dict>
 			</array>
-			<key>ReuseFFFF</key>
-			<false/>
 		</dict>
 		<key>DropTables</key>
 		<array>
@@ -66,20 +47,6 @@
 		</array>
 		<key>FixHeaders</key>
 		<false/>
-		<key>SSDT</key>
-		<dict>
-			<key>DropOem</key>
-			<false/>
-			<key>Generate</key>
-			<dict>
-				<key>CStates</key>
-				<false/>
-				<key>PStates</key>
-				<false/>
-				<key>PluginType</key>
-				<false/>
-			</dict>
-		</dict>
 		<key>SortedOrder</key>
 		<array>
 			<string>SSDT.aml</string>
@@ -113,12 +80,8 @@
 	<dict>
 		<key>Audio</key>
 		<dict>
-			<key>AFGLowPowerState</key>
-			<false/>
 			<key>Inject</key>
 			<string>Detect</string>
-			<key>ResetHDA</key>
-			<false/>
 		</dict>
 		<key>LANInjection</key>
 		<false/>
@@ -151,8 +114,6 @@
 			<key>Inject</key>
 			<true/>
 		</dict>
-		<key>UseIntelHDMI</key>
-		<false/>
 	</dict>
 	<key>GUI</key>
 	<dict>
@@ -218,7 +179,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02729403GUG0MC8C</string>
+		<string>C02407300QXG0MCUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -248,9 +209,9 @@
 		<key>ProductName</key>
 		<string>Macmini7,1</string>
 		<key>SerialNumber</key>
-		<string>C02V34Z9G1J0</string>
+		<string>C02M88Z0G1J0</string>
 		<key>SmUUID</key>
-		<string>FEE920D6-84F2-423F-9EAE-268DDDF61F1E</string>
+		<string>8D26DDEF-6A10-4253-9009-8A7A6CD5C2F0</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
