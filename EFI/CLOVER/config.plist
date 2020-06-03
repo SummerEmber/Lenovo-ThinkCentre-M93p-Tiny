@@ -87,22 +87,6 @@
 		<false/>
 		<key>NoDefaultProperties</key>
 		<false/>
-		<key>Properties</key>
-		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>AwAiDQ==</data>
-				<key>device-id</key>
-				<data>EgQAAA==</data>
-				<key>framebuffer-patch-enable</key>
-				<integer>1</integer>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
-				<key>model</key>
-				<string>Intel HD Graphics 4400</string>
-			</dict>
-		</dict>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -114,6 +98,8 @@
 			<key>Inject</key>
 			<true/>
 		</dict>
+		<key>UseIntelHDMI</key>
+		<true/>
 	</dict>
 	<key>GUI</key>
 	<dict>
@@ -143,7 +129,7 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<false/>
+			<true/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
@@ -179,7 +165,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02407300QXG0MCUE</string>
+		<string>C02521207J9G0MCAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -209,9 +195,9 @@
 		<key>ProductName</key>
 		<string>Macmini7,1</string>
 		<key>SerialNumber</key>
-		<string>C02M88Z0G1J0</string>
+		<string>C02PRDYEG1J0</string>
 		<key>SmUUID</key>
-		<string>8D26DDEF-6A10-4253-9009-8A7A6CD5C2F0</string>
+		<string>308B61DC-4E4C-46DA-9C9F-AE478E74C81F</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
