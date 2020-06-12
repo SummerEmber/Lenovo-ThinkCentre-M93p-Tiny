@@ -638,6 +638,7 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
+			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenUsbKbDxe.efi</string>
 		</array>
