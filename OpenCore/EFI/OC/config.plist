@@ -143,9 +143,13 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwAiDQ==</data>
+				<data>AAAWCg==</data>
 				<key>device-id</key>
 				<data>EgQAAA==</data>
+				<key>framebuffer-patch-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
 				<key>model</key>
 				<string>Intel HD Graphics 4400</string>
 			</dict>
@@ -479,7 +483,7 @@
 		<key>LegacySchema</key>
 		<dict/>
 		<key>WriteFlash</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -490,7 +494,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02708500J9G0MCFB</string>
+			<string>C02734104GUG0MC1F</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -498,9 +502,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T90AZG1J0</string>
+			<string>C02V8FY0G1J0</string>
 			<key>SystemUUID</key>
-			<string>9F3380EF-A9D4-48E8-900F-23EE588D9A50</string>
+			<string>DE92ACD7-B891-4029-A681-8F4DE666A5C3</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -519,7 +523,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-35C5E08120C7EEAF</string>
 			<key>BoardSerialNumber</key>
-			<string>C02708500J9G0MCFB</string>
+			<string>C02734104GUG0MC1F</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -529,7 +533,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02T90AZG1J0</string>
+			<string>C02V8FY0G1J0</string>
 			<key>ChassisType</key>
 			<integer>10</integer>
 			<key>ChassisVersion</key>
@@ -555,9 +559,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-35C5E08120C7EEAF</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T90AZG1J0</string>
+			<string>C02V8FY0G1J0</string>
 			<key>SystemUUID</key>
-			<string>9F3380EF-A9D4-48E8-900F-23EE588D9A50</string>
+			<string>DE92ACD7-B891-4029-A681-8F4DE666A5C3</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
