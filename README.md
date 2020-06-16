@@ -1,6 +1,7 @@
 # Hackintosh Clover & OpenCore EFI for Lenovo ThinkCentre M93p Tiny
 ```
 Model              Lenovo ThinkCentre M93p Tiny
+Mainboard          Intel Q87
 CPU                Intel Core i3-4130T
 Memory             8G DDR3 1600MHz (4G+4G)
 Graphics           Intel HD Graphics 4400
