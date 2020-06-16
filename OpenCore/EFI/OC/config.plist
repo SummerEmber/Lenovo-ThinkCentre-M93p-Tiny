@@ -143,11 +143,15 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWCg==</data>
+				<data>AwAiDQ==</data>
 				<key>device-id</key>
 				<data>EgQAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-patch-enable</key>
-				<integer>1</integer>
+				<data>AQAAAA==</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>AAAAgA==</data>
 				<key>model</key>
@@ -494,7 +498,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02734104GUG0MC1F</string>
+			<string>C02744108GUG0MCCB</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -502,9 +506,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V8FY0G1J0</string>
+			<string>C02VMRY5G1J0</string>
 			<key>SystemUUID</key>
-			<string>DE92ACD7-B891-4029-A681-8F4DE666A5C3</string>
+			<string>60D802DE-5456-4DB2-9BC2-2A4D10CE6748</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -523,7 +527,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-35C5E08120C7EEAF</string>
 			<key>BoardSerialNumber</key>
-			<string>C02734104GUG0MC1F</string>
+			<string>C02744108GUG0MCCB</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -533,7 +537,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02V8FY0G1J0</string>
+			<string>C02VMRY5G1J0</string>
 			<key>ChassisType</key>
 			<integer>10</integer>
 			<key>ChassisVersion</key>
@@ -559,9 +563,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-35C5E08120C7EEAF</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V8FY0G1J0</string>
+			<string>C02VMRY5G1J0</string>
 			<key>SystemUUID</key>
-			<string>DE92ACD7-B891-4029-A681-8F4DE666A5C3</string>
+			<string>60D802DE-5456-4DB2-9BC2-2A4D10CE6748</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
