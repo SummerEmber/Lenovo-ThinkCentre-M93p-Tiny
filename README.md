@@ -11,6 +11,6 @@ Wi-Fi              Broadcom BCM94352HMB
 Monitor            FHD 1920x1080
 BIOS Version       FBKTDBAUS 12/24/2019
 macOS Version      Catalina 10.15.6
-Clover Version     5118
+Clover Version     5120
 OpenCore Version   0.5.9
 ```
