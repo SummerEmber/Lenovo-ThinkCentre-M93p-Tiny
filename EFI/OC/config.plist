@@ -427,24 +427,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>BT4LEContinuityFixup.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/BT4LEContinuityFixup</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>IntelMausi.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -498,7 +480,7 @@
 			<key>DisableRtcChecksum</key>
 			<false/>
 			<key>ExtendBTFeatureFlags</key>
-			<false/>
+			<true/>
 			<key>ExternalDiskIcons</key>
 			<false/>
 			<key>ForceSecureBootScheme</key>
@@ -651,7 +633,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02424306GUG0MC1M</string>
+			<string>C02447303CDG0MCAD</string>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>SystemMemoryStatus</key>
@@ -663,18 +645,18 @@
 			<key>SystemProductName</key>
 			<string>Macmini7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02MV0GRG1J0</string>
+			<string>C02NQHYUG1J0</string>
 			<key>SystemUUID</key>
-			<string>86BAD047-38CE-4962-AA43-1495CD2B5901</string>
+			<string>095C5C5F-D383-494B-9F92-1A41FDC2FEB2</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>10/06/2020</string>
+			<string>11/04/2020</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>424.0.0.0.0</string>
+			<string>428.0.0.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -684,7 +666,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-35C5E08120C7EEAF</string>
 			<key>BoardSerialNumber</key>
-			<string>C02424306GUG0MC1M</string>
+			<string>C02447303CDG0MCAD</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -694,7 +676,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02MV0GRG1J0</string>
+			<string>C02NQHYUG1J0</string>
 			<key>ChassisType</key>
 			<integer>16</integer>
 			<key>ChassisVersion</key>
@@ -718,9 +700,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02MV0GRG1J0</string>
+			<string>C02NQHYUG1J0</string>
 			<key>SystemUUID</key>
-			<string>86BAD047-38CE-4962-AA43-1495CD2B5901</string>
+			<string>095C5C5F-D383-494B-9F92-1A41FDC2FEB2</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
