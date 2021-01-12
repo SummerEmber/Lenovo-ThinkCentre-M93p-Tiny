@@ -10,6 +10,6 @@ Ethernet           Intel I217LM
 Wi-Fi              Broadcom BCM94352HMB
 Monitor            FHD 1920x1080
 BIOS Version       FBKTDBAUS 12/24/2019
-macOS Version      Big Sur 11.0.1
-OpenCore Version   0.6.3
+macOS Version      Big Sur 11.1
+OpenCore Version   0.6.5
 ```
